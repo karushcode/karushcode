@@ -17,4 +17,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=karushcode&show_icons=true" />
     </picture>
+    <hr>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
